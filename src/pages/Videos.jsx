@@ -12,7 +12,7 @@ export default function Videos() {
 
     const {isLoading, error, data:videos} = useQuery(
         [ 'videos', keyword ], () => {
-            const youtube = new FakeYoutube();
+            const youtube = new Youtube();
             return youtube.search(keyword);
         });
         
