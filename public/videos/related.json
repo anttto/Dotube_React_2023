@@ -1,0 +1,1056 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "v9aVeGgUeY_TFtLUxmFsHWpgaUs",
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Yr1NjY58TSrDrg7WTFFI8i7uez8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YBJk2dUzLiY"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-14T05:03:36Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Light Jeans] 'Ditto' & 'OMG' Music Show Behind | NewJeans",
+                "description": "[Light Jeans] 'Ditto' & 'OMG' Music Show Behind | NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 \n#ADOR #어도어\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YBJk2dUzLiY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YBJk2dUzLiY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YBJk2dUzLiY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YBJk2dUzLiY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YBJk2dUzLiY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-14T05:03:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q-_SBnszVVkuQP---DDYLav-thA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mn5ZzRZ9yto"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-29T08:03:58Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Making Jeans] NewJeans (뉴진스) 'Ditto' & 'OMG' Recording Behind(Final)",
+                "description": "[Making Jeans] NewJeans (뉴진스) 'Ditto' & 'OMG' Recording Behind(Final)\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-29T08:03:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HNrSv7Vp_Nf9FG3PQaNu5-nyM8s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tRtf6WlpS6E"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-22T07:23:39Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Light Jeans] SKT Photoshoot Behind | NewJeans",
+                "description": "[Light Jeans] SKT Photoshoot Behind | NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 \n#ADOR #어도어\n#LightJeans #NewJeans_LightJeans\n#Year_of_NewJeans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tRtf6WlpS6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tRtf6WlpS6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tRtf6WlpS6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tRtf6WlpS6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tRtf6WlpS6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-22T07:23:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_jBGdNCwq9gAU7Kypit8yYzJgcU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5kCafaXvvQk"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-21T05:03:43Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Light Jeans] SPUR Photoshoot Behind | NewJeans",
+                "description": "[Light Jeans] SPUR Photoshoot Behind | NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#ADOR #어도어\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5kCafaXvvQk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5kCafaXvvQk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5kCafaXvvQk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5kCafaXvvQk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-21T05:03:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9tYkwhoZ58_0Ofk5BiYbJ5ZpxlY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NCRCEONMEfU"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-17T19:24:40Z",
+                "channelId": "UC4X5XaCsNAeGfcWxsqVwIqw",
+                "title": "NewJeans (뉴진스) 'Hurt' - Thai Ver. - ( Cover by Alpaca Café )",
+                "description": "Song : Hurt (뉴진스) - NewJeans (Thai Ver. Cover)\n\nCovered by Alpaca Café\n\nBangkok / Thailand\n\nFacebook : https://www.facebook.com/AlpacaCafe.Band\nInstagram : https://www.instagram.com/alpacacafe.band\nTwitter : https://twitter.com/AlpacaCafeBand\nTikTok : https://www.tiktok.com/@alpacacafe.band\nEmail : alpacacafe.band@gmail.com\n\nAlpaca Café is\nVocal : Pinpunthong Wanathong (Juli)\nBass : Thanadol Khuntichote (Nut)\nKeys : Nutt Sakulchotikaroj (Homey)\nGuitar : Sirapob Krasairnoi (Mark)\nGuitar : Dontree Churnjit (Rock)\n_______________________\n\nวันที่ฉันรู้สึกเหงาๆ\nไม่รู้ครั้งที่เท่าไรแล้ว\nพิมพ์ข้อความใส่โทรศัพท์\nแต่ไม่เคยกล้าส่งให้เขา\n\nหยิบถ้อยคำเลือกมาเรียงร้อย\nแอบกังวลบ้างไม่ใช่น้อย\nเป็นแบบนี้อยู่ทุกๆวัน\nแต่ว่านี่ไม่ใช่ตัวฉัน\n\nถ้าหากเธอนั้นคิดว่านี่คือเกม\nก็จะไม่ยอมแพ้ แม้ว่าฉันจะชอบเธอเท่าไร\nฉันเบื่อคำพูดที่ใครพูดกัน\nทำให้ฉันได้รู้สักที\nทำให้ฉันได้รู้สักที\nCause I’m not gonna be the one to get hurt\nHurt, na na\nI’m not gonna be the one to get hurt\n\nกี่ค่ำคืนที่ต้องทนหนาว\nก่อนเข้านอนจนตื่นตอนเช้า\nรอนานแล้วก็ไม่ได้ข่าว\nไม่มีเสียงแจ้งเตือนสักนิด\n\nหยิบถ้อยคำเลือกมาเรียงร้อย\nแอบกังวลบ้างไม่ใช่น้อย\nเป็นแบบนี้อยู่ทุกๆวัน\nแต่ว่านี่ไม่ใช่ตัวฉัน\n\nถ้าหากเธอนั้นคิดว่านี่คือเกม\nก็จะไม่ยอมแพ้ แม้ว่าฉันจะชอบเธอเท่าไร\nฉันเบื่อคำพูดที่ใครพูดกัน\nทำให้ฉันได้รู้สักที\nทำให้ฉันได้รู้สักที\nCause I’m not gonna be the one to get hurt\nHurt, na na\nI’m not gonna be the one to get hurt\n\nแพ้เพราะความห่างไกล\nใกล้เข้ามาอีกนิดได้ไหม\nยังไม่ค่อยแน่ใจ\nI’m not gonna be the one to get hurt\n\nแพ้เพราะความห่างไกล\nใกล้เข้ามาหน่อยได้หรือเปล่า\nยังไม่ค่อยแน่ใจ\nI’m not gonna be the one to get hurt\n\n_______________________\n\nColor grading : Sundaytwelveth\nLocation : COLD BREW Studio\n\n_______________________\nติดต่องาน\n062-423-9541 (ยูลี่)\n065-935-3597 (โฮม)\nEmail : alpacacafe.band@gmail.com\n_______________________\n#Hurt #NewJeans\n#AlpacaCafé #AlpacaCafe\n#อัลปาก้าก็พาเธอกลับมาไม่ได้",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NCRCEONMEfU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NCRCEONMEfU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NCRCEONMEfU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NCRCEONMEfU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NCRCEONMEfU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Alpaca Café",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-17T19:24:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8Zw7tKCvrpYSPV_mKoKr8iry6fU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yh9UdeSPTdQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-16T02:49:24Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Jeans' ZINE] Game Day EP.1 007빵, 텔레스테이션 🕹 | NewJeans",
+                "description": "[Jeans' ZINE] Game Day EP.1 007빵, 텔레스테이션 🕹 | NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 #Jeans_ZINE \n#WeAreNewJeans #NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans #ADOR #어도어",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yh9UdeSPTdQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yh9UdeSPTdQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yh9UdeSPTdQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yh9UdeSPTdQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-16T02:49:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NY8dLPOxYeX3RcsaeDI5S1Egkww",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wcz3g_TX7Pw"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-23T04:13:55Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Jeans' ZINE] Game Day EP.2 포즈 369, 진짜 가짜, 라이어 게임 🎰 | NewJeans",
+                "description": "[Jeans' ZINE] Game Day EP.2 포즈 369, 진짜 가짜, 라이어 게임 🎰 | NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#ADOR #어도어 \n#Jeans_ZINE #WeAreNewJeans\n#Year_of_NewJeans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wcz3g_TX7Pw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wcz3g_TX7Pw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wcz3g_TX7Pw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wcz3g_TX7Pw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wcz3g_TX7Pw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-23T04:13:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mqcOwyTfY3Pl0XfuvWnvjD2T-lc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VSxl6S34pHI"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-02T06:04:30Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Jeans' ZINE] Valentine’s Day for Bunnies! EP.1 초콜릿 게임🤎 | NewJeans",
+                "description": "[Jeans' ZINE] Valentine’s Day for Bunnies! EP.1 초콜릿 게임🤎 | NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 \n#MakingJeans #NewJeans_Behind\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VSxl6S34pHI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VSxl6S34pHI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VSxl6S34pHI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VSxl6S34pHI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-02T06:04:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0H0VY0uBibW01ntNKIese9ss-F4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iF777W0uIeQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-06T08:29:23Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Light Jeans] MUSINSA Photoshoot BehindㅣNewJeans",
+                "description": "[Light Jeans] MUSINSA Photoshoot BehindㅣNewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 \n#ADOR #어도어\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iF777W0uIeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iF777W0uIeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iF777W0uIeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iF777W0uIeQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-06T08:29:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bacXLqATn2eydEk3IZyuH78_f_E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OTkvNyYHtCA"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-09T08:41:27Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "[Jeans' ZINE] Valentine’s Day for Bunnies! EP.2 Dear. 버니즈💌🍫 | NewJeans",
+                "description": "[Jeans' ZINE] Valentine’s Day for Bunnies! EP.2 Dear. 버니즈💌🍫 | NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 #Jeans_ZINE \n#WeAreNewJeans #NewJeans_OMG #NewJeans_Ditto \n#Year_of_NewJeans #ADOR #어도어",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OTkvNyYHtCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OTkvNyYHtCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OTkvNyYHtCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OTkvNyYHtCA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-09T08:41:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hf_cWQT-tFKGMI2g8lNKSVLB26Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FnzpvHNtCEc"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-03T06:19:08Z",
+                "channelId": "UCaYWms7JOyaCUr_hcLvaUdA",
+                "title": "하니가 초콜렛 지키는 방법 (newjeans hanni use her dead eye to protect her chocolate)",
+                "description": "원본 영상\n☞  https://www.youtube.com/watch?v=VSxl6S34pHI\n\nHello, BUNNIES. I'll leave a comment just in case anyone misunderstands. After I enjoyed playing the game \"Red Dead Redemption 2,\" I watched this video and edited it because Hani's reaction to Minji's stealing chocolate was so cute. I'm also into the charms of NEWJEANS. Please watch it for fun!\n\n#뉴진스 #팜하니 #팬튜브 #rdr2 #newjeans",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FnzpvHNtCEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FnzpvHNtCEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FnzpvHNtCEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FnzpvHNtCEc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "holdmycoffee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-03T06:19:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y0e_hw2ozhagvTL76ZVjTaa5o_g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZP9aayhyIhQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-28T16:10:30Z",
+                "channelId": "UCJKHY3qOEtqq1I9qmBmKQsQ",
+                "title": "민지해린 쳐다봤다 쳐다봤다",
+                "description": "[Light Jeans] SKT Photoshoot Behind \nhttps://youtu.be/tRtf6WlpS6E",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZP9aayhyIhQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZP9aayhyIhQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZP9aayhyIhQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZP9aayhyIhQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZP9aayhyIhQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "내가보고싶어서올리는계정",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-28T16:10:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tbnxBySbZ0AOjlImRLxrkACV6Gk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DJbXIpupJ-8"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-27T03:15:05Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "NewJeans jealous era #NewJeans #뉴진스 #HAERIN #HYEIN #MINJI #WeAreNewJeans",
+                "description": "NewJeans jealous era\n\n#NewJeans #뉴진스 #HAERIN #HYEIN #MINJI\n#WeAreNewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DJbXIpupJ-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DJbXIpupJ-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DJbXIpupJ-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DJbXIpupJ-8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DJbXIpupJ-8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-27T03:15:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2KWeIjRuiWH92ceSXGtl2UNsW-E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OCTELWLxl_E"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-27T06:17:02Z",
+                "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+                "title": "[IVE ON] ANYUJIN x NEPA BEHIND",
+                "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OCTELWLxl_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OCTELWLxl_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OCTELWLxl_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OCTELWLxl_E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OCTELWLxl_E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IVE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-27T06:17:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tn-6e6JdsMeFnwwW0sdPHhmyv3c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7GrVPOryYH8"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-26T22:02:46Z",
+                "channelId": "UC7G9hwpkJZ61y7SX1UrgVvA",
+                "title": "킴민지 그 잡채",
+                "description": "#newjeans \n#뉴진스",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7GrVPOryYH8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7GrVPOryYH8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7GrVPOryYH8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7GrVPOryYH8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7GrVPOryYH8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뉴진스팸",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-26T22:02:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZEQx8Nn8gARdXp9zsCMMn51cuZY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vwCh-P-gAb4"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-01T11:14:36Z",
+                "channelId": "UCCyNa7g4ni9B78y7v36VpYQ",
+                "title": "[NewJeans] Danielle 'Ditto' Dance Practice Focus (뉴진스 다니엘 직캠) (안무영상)",
+                "description": "NewJeans (뉴진스) 'Ditto' Dance Practice Danielle Focus Fancam\n\nⓒ 2022 ADOR. All Rights Reserved.\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#danielle #다니엘 \n#Year_of_NewJeans\n#ADOR #어도어",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vwCh-P-gAb4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vwCh-P-gAb4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vwCh-P-gAb4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vwCh-P-gAb4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vwCh-P-gAb4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "eхια",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-01T11:14:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v7WfXAVcj5BXzwFN2wu8RvmdAYs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2ynRFfMak28"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-06T04:06:49Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "A film by NewJeans 🎬 출연: 뉴진스 / 촬영: 뉴진스 / 편집: 뉴진스 #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto",
+                "description": "A film by NewJeans 🎬\n출연: 뉴진스 / 촬영: 뉴진스 / 편집: 뉴진스\n\n#NewJeans #뉴진스 \n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ynRFfMak28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ynRFfMak28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ynRFfMak28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2ynRFfMak28/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2ynRFfMak28/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-06T04:06:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vZY3ybWGhgfPpx7-4D4YItwbhGc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eu0gZ36NFJA"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-02T20:34:46Z",
+                "channelId": "UCjswlwIsDwpicdXUOOi50Bg",
+                "title": "New Jeans - OMG (NAENO REMIX)",
+                "description": "#edm #hiphop #kpop \nPlease have fun",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eu0gZ36NFJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eu0gZ36NFJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eu0gZ36NFJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eu0gZ36NFJA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eu0gZ36NFJA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NAENO REMIX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-02T20:34:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GbLJRb8wN3bYGrJC20mv86BjoNo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vxDamcWpnKE"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-11T01:54:15Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "OMG한 부석순 선배님과 함께😆#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto #부석순 #BSS #SEVENTEEN #HAERIN #HANNI",
+                "description": "OMG한 부석순 선배님과 함께😆#NewJeans #뉴진스#NewJeans_OMG #NewJeans_Ditto #부석순 #BSS #SEVENTEEN #HAERIN #HANNI\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vxDamcWpnKE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vxDamcWpnKE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vxDamcWpnKE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vxDamcWpnKE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vxDamcWpnKE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-11T01:54:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rpaRqinKCQxu6vwS1g_k9NsYZ4M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qEaBafXEHH0"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-20T20:43:10Z",
+                "channelId": "UCsrrgf0qRno0_gFGSP0GGaA",
+                "title": "Newjeans *aegyo* with no talking to make it awkward",
+                "description": "All rights to the original music and video clip are form the original owner s. No copyright infringement. For entertainment purposes only. \n\n#newjeans #bunnies #hanni #haerin\n\ntags :p\nNewjeans, Bunnies, Hanni, Haerin, Minji, Danielle, Hyein,kpop, idol, kitty,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qEaBafXEHH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qEaBafXEHH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qEaBafXEHH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qEaBafXEHH0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "tokhanni",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-20T20:43:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Cc4_vTndcnK6u3UWTyv8cm4jpAw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YnK_51TV4V8"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-28T11:47:32Z",
+                "channelId": "UC2j50l05KVk_CAxuokG1w4w",
+                "title": "[르세라핌] 텐텐먹다 혼나는 은채 (또먹는은채)",
+                "description": "오늘도 여김없이 쉴 수 없는 은채의 앙냥냥\n\n\n#lesserafim #사쿠라 #홍은채 #카즈하 #허윤진 #김채원  #ルセラフィム",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YnK_51TV4V8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YnK_51TV4V8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YnK_51TV4V8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YnK_51TV4V8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "젠젠가까이",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-28T11:47:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Tf_tckI0L1kxG6u6xvniBqDEhPo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2uGEd460zxo"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-03T02:24:26Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans",
+                "description": "#NewJeans #뉴진스 \n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans \n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2uGEd460zxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2uGEd460zxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2uGEd460zxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2uGEd460zxo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2uGEd460zxo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-03T02:24:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BT8Y9CNx5r1lkKzmlEpJ7UZP_4o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IcyIH-7f2Mk"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-25T07:23:28Z",
+                "channelId": "UCWrlH_mlxhQ9Ap-YjQiECeA",
+                "title": "Tell Me (New Jeans ver.) (speed up)",
+                "description": "Don't forget to subscribe my channel for more speed song content 💕\n----------------------------------------------------\n•Original music:\nhttps://youtu.be/3AyaOSiNHRE\n•Original picture:\nhttps://pin.it/5bqCAOl\n----------------------------------------------------\nThanks for watching 💕\nDon't forget to follow my:\nTik Tok:\ntiktok.com/@lxcheeflavor\n----------------------------------------------------\n*if you have a request, please coment in coment section!\n#newjeans #tellme #speedsong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IcyIH-7f2Mk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IcyIH-7f2Mk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IcyIH-7f2Mk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IcyIH-7f2Mk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "lxcheeflavor",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-25T07:23:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E-WxLEle13q5l_XA2qqUvt_y5o8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SqBJyPxDDwg"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-29T06:40:38Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "내 맘이 끝이 없는 걸 I know, I know🦀 #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans",
+                "description": "내 맘이 끝이 없는 걸 I know, I know🦀 #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SqBJyPxDDwg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SqBJyPxDDwg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SqBJyPxDDwg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SqBJyPxDDwg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SqBJyPxDDwg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-29T06:40:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tOa23EE6anTZSbDTtVrdNDxj3VA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_Cua1AgTtPc"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-17T03:11:00Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "NewJeans👖의 메시지가 도착했어요💌Phoning chat with NewJeans 💬 #NewJeans #뉴진스 #WeAreNewJeans #Phoning",
+                "description": "NewJeans👖의 메시지가 도착했어요💌\nPhoning chat with NewJeans 💬\n\n#NewJeans #뉴진스 #NewJeans_Hurt\n#WeAreNewJeans #Phoning\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Cua1AgTtPc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Cua1AgTtPc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Cua1AgTtPc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Cua1AgTtPc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Cua1AgTtPc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-17T03:11:00Z"
+            }
+        }
+    ]
+}
