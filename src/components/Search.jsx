@@ -17,7 +17,7 @@ export default function Search() {
     }, [keyword]);
 
     return (
-        <>
+        <header>
             <Link to='/'>        
                 <span><FaYoutube size="30"/></span>
                 <span>Youtube</span>
@@ -26,6 +26,6 @@ export default function Search() {
                 <input type="text" placeholder='Search...' value={text} onChange={(e)=>{setText(e.target.value)}}/>
                 <button type='button' onClick={handleSubmit}><BsSearch/></button> 
             </form>
-        </>
+        </header>
     )
 };

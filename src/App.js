@@ -9,14 +9,10 @@ const queryClient = new QueryClient();
 function App() {
   return (
     <>
-      <header id="header">
-        <Search/>
-      </header>
-      <div id="container">
-        <QueryClientProvider client={queryClient}>
-          <Outlet/>
-        </QueryClientProvider>
-      </div>
+      <Search/>
+      <QueryClientProvider client={queryClient}>
+        <Outlet/>
+      </QueryClientProvider>
     </>
   );
 }

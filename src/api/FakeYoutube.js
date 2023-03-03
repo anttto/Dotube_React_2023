@@ -8,11 +8,11 @@ export default class FakeYoutube {
         return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
     }
 
-    async #searchByKeyword(keyword) {
+    async #searchByKeyword() {
         return axios
         .get(`/videos/search.json`)
         .then((res)=>res.data.items)
-        .then((items)=>items.map((item)=>({...item, id:item.id.videoId})));
+        .then((items)=>items.map((item)=>({...item, id: (item.id.videoId) || (item.id.playlistId) || (item.id.channelId)})));
     }
 
     async #mostPopular() {

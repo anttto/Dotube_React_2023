@@ -4,7 +4,7 @@ export default function VideoCard({video}) {
     const { title, publishedAt, thumbnails } = video.snippet;
     return (
         <li>
-            <img src={thumbnails.medium.url} alt="" />
+            <img src={thumbnails.medium.url} alt={title} />
             <p>{title}</p>
             <p>{publishedAt}</p>
         </li>
