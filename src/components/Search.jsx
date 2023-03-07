@@ -17,14 +17,14 @@ export default function Search() {
     }, [keyword]);
 
     return (
-        <header>
-            <Link to='/'>        
-                <span><FaYoutube size="30"/></span>
-                <span>Youtube</span>
+        <header className='w-full flex items-center justify-center p-4 text-2xl border-b border-zinc-600 mb-4'>
+            <Link to='/' className='flex items-center'>
+                <FaYoutube size="30" className='text-brand'/>
+                <h1 className=' font-bold ml-2 text-2xl'>Dotube</h1>
             </Link>
-            <form onSubmit={handleSubmit}>
-                <input type="text" placeholder='Search...' value={text} onChange={(e)=>{setText(e.target.value)}}/>
-                <button type='button' onClick={handleSubmit}><BsSearch/></button> 
+            <form className='flex justify-center w-full' onSubmit={handleSubmit}>
+                <input className=' w-7/12 px-5 outline-none bg-black text-base text-gray-50' type="text" placeholder='Search...' value={text} onChange={(e)=>{setText(e.target.value)}}/>
+                <button className='bg-zinc-500 p-3' type='button' onClick={handleSubmit}><BsSearch size='15' /></button> 
             </form>
         </header>
     )
