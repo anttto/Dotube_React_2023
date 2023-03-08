@@ -6,9 +6,7 @@ import VideoCard from '../components/VideoCard';
 export default function RelatedVideos({id}) {
     const {youtube} = useYoutubeApi();
     const {data: videos} = useQuery (
-        [ 'related', id ], () => {
-            return youtube.relatedVideos(id);
-        });
+        [ 'related', id ], () => youtube.relatedVideos(id), {staleTime:1000 * 60 * 5});
     return (
         <>
             {
