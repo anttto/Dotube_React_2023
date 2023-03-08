@@ -1,4 +1,4 @@
-# Youtube made with React
+# Youtube made with React!
 
 📒[개인 스터디 기록]📒 ✅
 
