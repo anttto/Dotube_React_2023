@@ -1,8 +1,12 @@
-# Youtube made with React!
+# Youtube made with React! 📒
   
 [GO WebSite 😀🚀](https://splendid-tarsier-37ff7f.netlify.app/) 
   
-📒[개인 스터디 기록]📒 ✅
+
+![qrcode_51231404_edead2888cb5e7f8ca3fd6989724d77e (3)](https://user-images.githubusercontent.com/57241573/223919219-302de622-70f1-4adb-85bd-04f7211fa4a9.png)
+
+    
+[개인 스터디 기록]✅
 
 ## (1) React Web
 
