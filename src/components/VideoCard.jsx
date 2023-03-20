@@ -10,13 +10,13 @@ export default function VideoCard({video, type}) {
 
     return (
         <li 
-            className={ isList ? 'flex gap-1 m-2' : '' }
+            className={ isList ? 'flex gap-1 m-2 cursor-pointer' : 'cursor-pointer' }
             onClick={()=>{navigate(`/videos/watch/${video.id}`, {state:{video}})}}>
             <img className={ isList ? 'w-60 mr-2' : 'w-full' } src={thumbnails.medium.url} alt={title} />
             <div>
                 <p className='font-bold my-2 text-base text-zinc-200 line-clamp-2'>{title}</p>
                 <p className=' text-channel font-bold opacity-100'>{channelTitle}</p>
-                <p className=' text-zinc-400 opacity-70'>{formatAgo(publishedAt, 'ko')}</p>
+                <p className=' text-zinc-400 opacity-70'>{formatAgo(publishedAt)}</p>
             </div>
         </li>
     )
